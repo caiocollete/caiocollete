@@ -8,9 +8,9 @@
 
 <h3>My Skills</h3>
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-61DAFB?logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=phyton)
 
 **Development Tools**
 
