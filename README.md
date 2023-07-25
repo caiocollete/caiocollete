@@ -8,8 +8,6 @@
 
 <h3>My Skills</h3>
 
-**Aplication and data**
-
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=phyton)
