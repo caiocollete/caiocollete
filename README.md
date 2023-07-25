@@ -4,7 +4,7 @@
 
 - 🤔 Exploring new possibilities and inventing projects.
 - 🎓 Studying **Information System** on <a href="https://www.unoeste.br/fipp">FIPP - UNOESTE</a>.
-- 🌱 &nbsp; Learning more about **C/C++ and Python**.
+- 🌱 &nbsp;Learning more about **C/C++ and Python**.
 
 <h3>My Skills</h3>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
+<a href="https://github.com/caiocollete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&theme=dracula&show_icons=true" />
 </a>
 
