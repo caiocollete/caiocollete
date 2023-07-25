@@ -21,7 +21,7 @@
 
 <a href="https://github.com/caiocollete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&theme=dracula&show_icons=true" />
-</a>
+</a><br>
 <a href="https://github.com/caiocollete">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&theme=dracula&hide_langs_below=1" />
 </a>
