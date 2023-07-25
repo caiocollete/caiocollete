@@ -25,9 +25,3 @@
 <a href="https://github.com/caiocollete">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&theme=transparent&hide_langs_below=1" />
 </a>
-
-<h3>Where to find me?</h3>
-
-[![Linkedin](https://img.shields.io/badge/-caiocollete-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=caiocollete)](https://www.linkedin.com/in/caiocollete)
-[![Gmail Badge](https://img.shields.io/badge/-caiocolletesilva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocolletesilva@gmail.com)](mailto:caiocolletesilva@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/caiocollete?label=follow&style=social)](https://github.com/caiocollete)
