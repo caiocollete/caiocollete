@@ -6,7 +6,7 @@
 - 🎓 Studying **Information System** on <a href="https://www.unoeste.br/fipp">FIPP - UNOESTE</a>.
 - 🌱 &nbsp; Learning more about **C/C++ and Python**.
 
-<h3>Minhas Skills</h3>
+<h3>My Skills</h3>
 
 **Aplication and data**
 
