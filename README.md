@@ -20,10 +20,10 @@
 <br/>
 
 <a href="https://github.com/caiocollete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&theme=transparent&show_icons=true" />
 </a><br>
 <a href="https://github.com/caiocollete">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&theme=transparent&hide_langs_below=1" />
 </a>
 
 <h3>Where to find me?</h3>
