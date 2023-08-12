@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 
-- 🚀 Exploring new possibilities and inventing projects.
+- 🚀 Exploring new possibilities and creating projects.
 - 🎓 Studying **Information System** on <a href="https://www.unoeste.br/fipp">FIPP - UNOESTE</a>.
 - 🌱 &nbsp;Learning more about **C/C++ and Python**.
 
