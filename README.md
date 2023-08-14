@@ -11,6 +11,9 @@
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-61DAFB?logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-61DAFB?logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-61DAFB?logo=css&logoColor=white)
+![JS](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=white)
 
 **Development Tools**
 
