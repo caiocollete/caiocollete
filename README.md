@@ -4,7 +4,7 @@
 
 - 🚀 Exploring new possibilities and creating projects.
 - 🎓 Studying **Information System** on <a href="https://www.unoeste.br/fipp">FIPP - UNOESTE</a>.
-- 🌱 &nbsp;Learning more about **C/C++ and Python**.
+- 🌱 &nbsp;Learning more about **Algorithms**.
 
 <h3>My Skills</h3>
 
