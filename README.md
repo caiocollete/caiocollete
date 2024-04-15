@@ -14,7 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-61DAFB?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-61DAFB?logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=white)
-![JAVA](https://img.shields.io/badge/-Java-61DAFB?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-61DAFB?logo=java&logoColor=white)
 
 **Development Tools**
 
