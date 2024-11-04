@@ -26,4 +26,7 @@
 </div>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<div align="center"> 
+  
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) 
+</div>
