@@ -12,13 +12,6 @@
 
 🔗 **Vamos conectar!** Sinta-se à vontade para explorar meus projetos e entrar em contato.
 
-
-**Ferramentas que Utilizo**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-61DAFB?logo=visual-studio-code&logoColor=white)
-![CLion](https://img.shields.io/badge/-CLion-61DAFB?logo=clion&logoColor=white)
-![Intellij](https://img.shields.io/badge/-Intellij-61DAFB?logo=intellij&logoColor=white)
-
 <br/>
 
 <div align="center">
@@ -29,5 +22,13 @@
 
 <div align="center"> 
   
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-61DAFB?logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-61DAFB?logo=clion&logoColor=white)
+![Intellij](https://img.shields.io/badge/-Intellij-61DAFB?logo=intellij&logoColor=white)
+</div>
+
+<div align="center"> 
+  
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) 
 </div>
+
