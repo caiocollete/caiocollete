@@ -1,19 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<h3>About me</h3>
 
-- 🚀 Exploring new possibilities and creating projects.
-- 🎓 Studying **Information System** on <a href="https://www.unoeste.br/fipp">FIPP - UNOESTE</a>.
-- 🌱 &nbsp;Learning more about **Algorithms**.
+### Olá! 👋 Eu sou Caio Collete
 
-<h3>My Skills</h3>
+💻 **Desenvolvimento de Software:** Estou sempre buscando aprender e aprimorar minhas habilidades em tecnologias para criar soluções inovadoras e funcionais.
 
-![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-61DAFB?logo=cpp&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-61DAFB?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-61DAFB?logo=css&logoColor=white)
-![JS](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-61DAFB?logo=java&logoColor=white)
+📚 **Tecnologias que utilizo**: Java, PostgreSQL, JavaFX. Sempre buscando formas de otimizar processos e entregar soluções completas e funcionais.
+
+🌐 **Projetos em destaque**:
+- **Sistema ERP para ONG**: Trabalhando em um sistema para a ONG LAR Aconchego, localizada em Presidente Venceslau, SP, com foco em ajudar na organização e gestão dos processos.
+- **Faiska Burguer**: Sistema de gestão para lanchonetes e restaurantes, disponível [aqui](https://github.com/caiocollete/faiskaburguer). Projeto em desenvolvimento com funcionalidades planejadas para atender às necessidades específicas do setor.
+
+🚀 **Objetivo**: Criar soluções que facilitem o dia a dia das empresas, proporcionando maior controle e eficiência nos processos.
+
+🔗 **Vamos conectar!** Sinta-se à vontade para explorar meus projetos e entrar em contato.
 
 **Development Tools**
 
@@ -24,7 +24,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/caiocollete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&layout=compact&langs_count=10&theme=transparent"/>
 </div>
