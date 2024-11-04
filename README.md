@@ -23,9 +23,8 @@
 
 <br/>
 
-<a href="https://github.com/caiocollete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&theme=transparent&show_icons=true" />
-</a><br>
-<a href="https://github.com/caiocollete">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&theme=transparent&hide_langs_below=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/FrancisBFTC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&layout=compact&langs_count=10&theme=transparent"/>
+</div>
