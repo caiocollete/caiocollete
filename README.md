@@ -12,7 +12,8 @@
 
 🔗 **Vamos conectar!** Sinta-se à vontade para explorar meus projetos e entrar em contato.
 
-**Development Tools**
+
+**Ferramentas que Utilizo**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-61DAFB?logo=visual-studio-code&logoColor=white)
 ![CLion](https://img.shields.io/badge/-CLion-61DAFB?logo=clion&logoColor=white)
