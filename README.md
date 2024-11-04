@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-
 ### Olá! 👋 Eu sou Caio Collete
 
 💻 **Desenvolvimento de Software:** Estou sempre buscando aprender e aprimorar minhas habilidades em tecnologias para criar soluções inovadoras e funcionais.
@@ -27,3 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&layout=compact&langs_count=10&theme=transparent"/>
 </div>
+<br/>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
