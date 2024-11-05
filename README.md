@@ -1,16 +1,18 @@
-### Olá! 👋 Eu sou Caio Collete
+# 👨🏻‍💻Caio Collete
 
-💻 **Desenvolvimento de Software:** Estou sempre buscando aprender e aprimorar minhas habilidades em tecnologias para criar soluções inovadoras e funcionais.
+**`💻 Desenvolvedor de Software:`** <br>
+Estou sempre buscando aprender e aprimorar minhas habilidades em tecnologias para criar soluções inovadoras e funcionais.
 
-📚 **Tecnologias que utilizo**: Java, PostgreSQL, JavaFX. Sempre buscando formas de otimizar processos e entregar soluções completas e funcionais.
+**`📚 Tecnologias que utilizo:`** <br>
+Java, PostgreSQL, JavaFX. Sempre buscando formas de otimizar processos e entregar soluções completas e funcionais.
 
-🌐 **Projetos em destaque**:
+ **`🌐 Projetos em destaque:`**
 - **Sistema ERP para ONG**: Trabalhando em um sistema para a ONG LAR Aconchego, localizada em Presidente Venceslau, SP, com foco em ajudar na organização e gestão dos processos.
 - **Faiska Burguer**: Sistema de gestão para lanchonetes e restaurantes, disponível [aqui](https://github.com/caiocollete/faiskaburguer). Projeto em desenvolvimento com funcionalidades planejadas para atender às necessidades específicas do setor.
 
-🚀 **Objetivo**: Criar soluções que facilitem o dia a dia das empresas, proporcionando maior controle e eficiência nos processos.
+**`🚀 Objetivo:`** Criar soluções que facilitem o dia a dia das empresas, proporcionando maior controle e eficiência nos processos.
 
-🔗 **Vamos conectar!** Sinta-se à vontade para explorar meus projetos e entrar em contato.
+ **`🔗 Vamos conectar!`** Sinta-se à vontade para explorar meus projetos e entrar em contato.
 
 <br/>
 
