@@ -14,7 +14,7 @@ Estou sempre buscando aprender e aprimorar minhas habilidades em tecnologias par
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&theme=transparent&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&layout=compact&langs_count=10&theme=transparent"/>
 </div>
 <br/>
