@@ -57,8 +57,8 @@ Tenho experiência com arquitetura de sistemas, desenvolvimento backend e fronte
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiocollete&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
 </div>
 
 ###
