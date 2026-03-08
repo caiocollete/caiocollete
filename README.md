@@ -7,10 +7,6 @@ Tenho experiência com arquitetura de sistemas, desenvolvimento backend e fronte
 
 ###
 
-<h2 align="left">Estatísticas GitHub:</h2>
-
-###
-
 <h2 align="left">Conecte-se comigo:</h2>
 
 <p align="left">
